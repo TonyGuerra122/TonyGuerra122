@@ -24,7 +24,7 @@
     <a href="#">
         <img src="https://skillicons.dev/icons?i=java,spring,kotlin,javascript,nodejs,php,laravel,c,cpp,cs,dotnet&theme=dark">
         <br>
-        <img src="https://skillicons.dev/icons?i=git,github&theme=dark">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker&theme=dark">
     </a>
 </div>
 <div align="center">
