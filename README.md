@@ -25,7 +25,7 @@
 </div>
 <div align="center">
     <h2>GitHub Status</h2>
-    <a href="https://github.com/RichardTavares">
+    <a href="https://github.com/TonyGuerra122">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyGuerra122&hide=css,scss,html&theme=tokyonight">
     </a>
 </div>
