@@ -22,7 +22,8 @@
 <div style="display: inline_block" align="center">
     <h2>Competências</h2>
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,javascript,nodejs,php,laravel,c,cpp,cs,dotnet,git,github&theme=dark">
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,javascript,nodejs,php,laravel,c,cpp,cs,dotnet&theme=dark">
+        <img src="https://skillicons.dev/icons?i=git,github&theme=dark">
     </a>
 </div>
 <div align="center">
