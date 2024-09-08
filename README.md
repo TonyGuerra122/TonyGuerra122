@@ -22,7 +22,6 @@
 <div style="display: inline_block" align="center">
     <h2>Competências</h2>
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,javascript,nodejs,php,laravel,c,cpp,cs,dotnet,git,github&theme=dark">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 <div align="center">
     <h2>GitHub Status</h2>
