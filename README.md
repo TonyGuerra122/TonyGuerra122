@@ -32,6 +32,8 @@
         <br>
         <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind&theme=dark">
         <br>
+        <img src="https://skillicons.dev/icons?i=windows,linux,kali,arch,ubuntu&theme=dark">
+        <br>
         <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark">
     </a>
 </div>
