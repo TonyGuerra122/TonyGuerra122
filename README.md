@@ -26,9 +26,11 @@
         <br>
         <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vue,laravel,dotnet&theme=dark">
         <br>
-        <img src="https://skillicons.dev/icons?i=html,css,scss&theme=dark">
+        <img src="https://skillicons.dev/icons?i=maven,gradle,npm,yarn,cmake&theme=dark">
         <br>
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,docker&theme=dark">
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,scss&theme=dark">
     </a>
 </div>
 <div align="center">
