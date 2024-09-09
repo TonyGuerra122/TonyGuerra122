@@ -24,7 +24,7 @@
     <a href="#">
         <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,php,c,cpp,cs,go,elixir,python&theme=dark">
         <br>
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vue,laravel,dotnet&theme=dark">
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vue,laravel,dotnet,jquery&theme=dark">
         <br>
         <img src="https://skillicons.dev/icons?i=maven,gradle,npm,yarn,cmake&theme=dark">
         <br>
